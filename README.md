@@ -33,7 +33,7 @@ The dataset contains:
 ![Student Marks](student_marks.png)
 
 ### Study Hours vs Marks
-![Study Hours vs Marks](study_vs_marks.png)
+![Study Hours vs Marks](study_vsmarks.png)
 
 ## Conclusion
 
